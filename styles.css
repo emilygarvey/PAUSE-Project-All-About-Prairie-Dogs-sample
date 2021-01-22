@@ -1,0 +1,26 @@
+body {
+    background: #0bb005;
+}
+
+h1 {
+    color: #521e02;
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+h2 {
+    color: #521e02;
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+img {
+    width: 400px;
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+    color: #182f7a;
+}
